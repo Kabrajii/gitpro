@@ -1,6 +1,6 @@
 #!/bin/bash
 
 for X in cyan magenta yellow  
-do
+do #for this
 	echo $X
 done
